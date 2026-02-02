@@ -1,4 +1,4 @@
-# 🥗 NeutriCheck – Your AI-powered Food Label Health Checker  
+# 🥗 NutriCheck – Your AI-powered Food Label Health Checker  
 
 ## 📌 Overview  
 NeutriCheck is a **health-awareness web application** that helps users make informed food choices.  
